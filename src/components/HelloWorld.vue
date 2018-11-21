@@ -1,12 +1,4 @@
-<template>
-  <v-app id="app">
-    <div>
-      <v-btn>マテリアルボタン</v-btn>
-      <img src="./assets/logo.png">
-      <router-view/>
-    </div>
-  </v-app>
-</template>
+
 <template>
   <div class="hello">
     <h1>{{ msg }}</h1>
